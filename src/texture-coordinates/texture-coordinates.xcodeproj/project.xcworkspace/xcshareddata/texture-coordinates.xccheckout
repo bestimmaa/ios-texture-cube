@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E82DE8A-7EC7-4E4B-849A-518B6E3EC232</string>
+	<key>IDESourceControlProjectName</key>
+	<string>texture-coordinates</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>637E5AF89449EC4B548DC6B9C8851E1CBBBA21AE</key>
+		<string>https://github.com/bestimmaa/ios-texture-cube</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/texture-coordinates/texture-coordinates.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>637E5AF89449EC4B548DC6B9C8851E1CBBBA21AE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bestimmaa/ios-texture-cube</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>637E5AF89449EC4B548DC6B9C8851E1CBBBA21AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>637E5AF89449EC4B548DC6B9C8851E1CBBBA21AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-texture-cube</string>
+		</dict>
+	</array>
+</dict>
+</plist>
