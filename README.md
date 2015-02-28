@@ -1,2 +1,10 @@
-# ios-texture-cube
-An example of how to map parts of a single texture to the sides of a cube on iOS with OpenGL ES and GLKit
+# Texture six sides of a cube with a single texture file
+## A demo implemented on iOS using OpenGL ES 2.0 and GLKit Framework
+
+The basic idea is to use this single texture:
+
+![texture image](https://github.com/bestimmaa/ios-texture-cube/blob/master/src/texture-coordinates/texture-coordinates/texture_numbers.png)
+
+to texture each side of the cube:
+
+![rotating cube gif]()
