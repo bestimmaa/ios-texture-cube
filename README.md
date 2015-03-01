@@ -7,4 +7,4 @@ The basic idea is to use this single texture:
 
 to texture each side of the cube:
 
-![rotating cube gif]()
+![rotating cube gif](https://github.com/bestimmaa/ios-texture-cube/blob/master/cube.gif)
