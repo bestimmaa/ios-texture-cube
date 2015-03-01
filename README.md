@@ -1,5 +1,5 @@
 # Texture each side of a cube with a single texture file
-## A demo implemented on iOS using OpenGL ES 2.0 and GLKit Framework
+### A demo implemented on iOS using OpenGL ES 2.0 and GLKit Framework
 
 The basic idea is to use this single texture:
 
