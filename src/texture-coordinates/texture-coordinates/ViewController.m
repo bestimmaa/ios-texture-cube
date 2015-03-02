@@ -200,7 +200,7 @@
     
     GLKMatrix4 scaleMatrix = GLKMatrix4MakeScale(3.0, 3.0, 3.0);
     GLKMatrix4 translateMatrix = GLKMatrix4MakeTranslation(0, 0, 0);
-    GLKMatrix4 rotationMatrix = GLKMatrix4MakeRotation(self.rotation, 1.0, 1.0, 1.0);
+    GLKMatrix4 rotationMatrix = GLKMatrix4MakeRotation(self.rotation, 1.0, 1.0, 0.0);
     
     GLKMatrixStackRef matrixStack = GLKMatrixStackCreate(CFAllocatorGetDefault());
     
